@@ -1,0 +1,27 @@
+html, body{
+    height:100%;    
+}
+
+.book{
+    border: 2px solid black;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.form-container{
+    padding: 5px;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    margin-top: 5px;
+}
+
+button{
+    margin-top: 10px;
+}
